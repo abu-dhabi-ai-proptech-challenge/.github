@@ -2,7 +2,7 @@
 
 **Building the Intelligence Layer for Land, Investment and Communities**
 
-A one-day AI challenge hosted by **Cursor** and **eVoost AI** at **Hub71, Abu Dhabi**. Teams build working AI prototypes across four tracks:
+A one-day AI challenge hosted by **Cursor** and **eVoost AI** at **Hub71, Abu Dhabi** — **Friday, 26 June 2026**. Teams build working AI prototypes across four tracks:
 
 🗺️ **Land Intelligence** · 💼 **Investment Intelligence** · 🏙️ **Future Communities** · 🧭 **Decision Intelligence**
 
