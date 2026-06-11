@@ -25,7 +25,7 @@ pip install -r requirements.txt && python main.py   # no API keys needed
 
 ## Links
 
-💬 **Discord:** [discord.gg/jy3QDxQ3jK](https://discord.gg/jy3QDxQ3jK) · 🤗 **Datasets:** [Hugging Face](https://huggingface.co/datasets/eVoost/abu-dhabi-ai-proptech-challenge) · 🌐 **Website:** WEBSITE_URL · 📝 **Register:** REGISTER_URL
+💬 **Discord:** [discord.gg/jy3QDxQ3jK](https://discord.gg/jy3QDxQ3jK) · 🤗 **Datasets:** [Hugging Face](https://huggingface.co/datasets/eVoost/abu-dhabi-ai-proptech-challenge) · 🌐 **Website:** https://citygeist-core.lovable.app · 📝 **Register:** https://citygeist-core.lovable.app/#register
 
 ---
 
