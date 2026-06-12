@@ -19,8 +19,7 @@ A one-day AI challenge hosted by **[Cursor](https://cursor.com)** and **[eVoost 
 
 ```bash
 git clone https://github.com/abu-dhabi-ai-proptech-challenge/starter-kit.git
-cd starter-kit/examples/land-intelligence-agent
-pip install -r requirements.txt && python main.py   # no API keys needed
+cd starter-kit && ./quickstart.sh   # venv + deps + runs an AI agent — no API keys needed
 ```
 
 ## Links
